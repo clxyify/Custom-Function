@@ -6,3 +6,6 @@ end)
 
 --clear the code on the top and run this code below after you remove the code from the top
 printsomething("hello i just printed without the global 'print' wow isn't that cool!")
+
+--does it exist? well let's find out
+if printsomething then warn("verified smarto") else warn("verified retard") end
